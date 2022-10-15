@@ -1,6 +1,7 @@
-## Compose_Camp_Github
+# Compose_Camp_Github
 
-# Problem Statement : Poor visibility of project-related data, productivity gaps caused by insufficient profile automation, collaboration and communication problems brought on by a lack of profile information, and poor project selection are just a few of the numerous concerns that come to mind. With the aid of a more engaging collaborative application, a profile management application can eliminate the majority of those pain points.
+# Problem Statement : 
+Poor visibility of project-related data, productivity gaps caused by insufficient profile automation, collaboration and communication problems brought on by a lack of profile information, and poor project selection are just a few of the numerous concerns that come to mind. With the aid of a more engaging collaborative application, a profile management application can eliminate the majority of those pain points.
 
 # Functionality & Concepts used :
 • The App has a very simple and interactive interface using jetpack compose • Linear and Relative Layout : To align the sub views in a line and relative view to give layoutparam to the sub views that specifies where it should go relative to other views.
