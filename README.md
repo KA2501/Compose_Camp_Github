@@ -9,6 +9,6 @@ Poor visibility of project-related data, productivity gaps caused by insufficien
 • Simple & Easy Views Design : Use of familiar audience EditText with hints and interactive buttons with setOnClickListener() made it easier for customer or user to register or sign in without providing any detailed instructions pages. Apps also uses App Navigation to switch between different screens.
 • Kotlin coroutines: used to create asynchronous programs in a fluent way so that user will not face any difficulties while using the app. • Viewmodel and LiveData and Room Database 
 
-#Future Scope :
+# Future Scope :
 We'll make an effort to reach various locations throughout the globe and provide them this service. With the assistance of the Government and Development Assistance, we may also promote this in the various institutions in the next years (DA)
 
